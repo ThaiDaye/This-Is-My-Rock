@@ -959,3 +959,31 @@ LogInit: Object subsystem initialized
 [2019.05.14-17.00.06:254][219]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/MainMenuCB68F4194C0232C6C843B09B5EBB9DD3.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Maps/MainMenu.umap'
 [2019.05.14-17.00.06:286][219]LogFileHelpers: Saving map 'MainMenu' took 0.267
 [2019.05.14-17.00.06:291][219]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2019.05.14-17.03.39:568][622]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-17.03.42:865][697]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-17.03.48:550][845]BlueprintLog: New page: Compile Widget_MainMenu
+[2019.05.14-17.03.49:436][861]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/Widget_MainMenu9DAA860D439A078C672F0CA99D891110.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/UI/MainMenu/Widget_MainMenu.uasset'
+[2019.05.14-17.04.07:751][298]LogSlate: Took 0.004907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.14-17.05.07:258][819]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-17.05.16:650][ 67]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-17.05.31:449][445]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-17.05.34:081][522]BlueprintLog: New page: Compile Widget_MainMenu
+[2019.05.14-17.05.34:770][536]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/Widget_MainMenuE18E5708467D4E216894D1AB0872EEA9.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/UI/MainMenu/Widget_MainMenu.uasset'
+[2019.05.14-17.05.36:671][638]LogTemp: Repeating last play command: Standalone Game
+[2019.05.14-17.05.40:579][638]LogSlate: Window 'Save Content' being destroyed
+[2019.05.14-17.05.40:891][638]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/MainMenuD7FB19BC4463C602D9482D92A73B0441.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2019.05.14-17.05.40:932][638]LogFileHelpers: Saving map 'MainMenu' took 0.316
+[2019.05.14-17.05.40:939][638]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2019.05.14-17.06.00:817][397]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2019.05.14-17.06.11:642][219]LogSlate: Window 'MainMenu - Level Blueprint Editor' being destroyed
+[2019.05.14-17.06.11:648][219]LogSlate: Window 'MainMenu - Level Blueprint Editor' being destroyed
+[2019.05.14-17.06.15:761][636]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/Widget_MainMenu.Widget_MainMenu
+[2019.05.14-17.06.21:083][777]BlueprintLog: New page: Compile Widget_MainMenu
+[2019.05.14-17.06.21:853][794]LogTemp: Repeating last play command: Standalone Game
+[2019.05.14-17.06.24:353][794]LogSlate: Window 'Save Content' being destroyed
+[2019.05.14-17.06.24:664][794]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/MainMenu6839984D4FAF488C8B6EF99EE8B26600.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2019.05.14-17.06.24:709][794]LogFileHelpers: Saving map 'MainMenu' took 0.312
+[2019.05.14-17.06.24:753][794]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/Widget_MainMenuB34DB57049F72A34233CB78B53EBB2FF.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/UI/MainMenu/Widget_MainMenu.uasset'
+[2019.05.14-17.06.24:766][794]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2019.05.14-17.06.46:004][941]LogSlate: Window 'Widget_MainMenu' being destroyed
+[2019.05.14-17.06.46:020][941]LogSlate: Window 'Widget_MainMenu' being destroyed
