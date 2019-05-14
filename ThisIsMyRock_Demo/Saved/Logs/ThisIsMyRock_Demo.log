@@ -427,3 +427,298 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Set Nameplate
 [2019.05.14-19.03.05:943][720]LogExit: GameNetDriver None shut down
 [2019.05.14-19.03.05:993][721]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2019.05.14-19.03.07:608][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-19.03.31:480][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-19.03.45:041][767]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.05.14-19.03.46:461][798]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/ThirdPersonCharacter81035E694135037832A8309303135F2F.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.05.14-19.03.47:654][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-19.03.49:992][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-19.03.51:057][195]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2019.05.14-19.08.13:775][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-19.08.22:115][384]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameData/RockGameInstance.RockGameInstance
+[2019.05.14-19.08.29:208][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-19.08.29:347][917]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameData/MenuGameMode.MenuGameMode
+[2019.05.14-19.08.30:549][988]LogSlate: Window 'MenuGameMode' being destroyed
+[2019.05.14-19.08.30:553][988]LogSlate: Window 'MenuGameMode' being destroyed
+[2019.05.14-19.08.30:669][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.14-19.08.31:186][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-19.08.37:350][676]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameData/RockGameMode.RockGameMode
+[2019.05.14-19.08.48:907][690]BlueprintLog: New page: Compile RockGameMode
+[2019.05.14-19.08.49:418][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/RockGameMode" FILE="../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/GameData/RockGameMode.uasset" SILENT=true
+[2019.05.14-19.08.49:440][714]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/RockGameMode7AD917764810CC5EF67AA98A4D7825BF.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/GameData/RockGameMode.uasset'
+[2019.05.14-19.08.50:065][764]LogSlate: Window 'RockGameMode' being destroyed
+[2019.05.14-19.08.50:170][764]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameData/RockGameMode.RockGameMode
+[2019.05.14-19.10.18:949][688]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.14-19.10.22:648][878]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.05.14-19.10.23:761][941]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.05.14-19.10.23:765][941]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.05.14-19.10.46:253][709]BlueprintLog: New page: Compile RockGameMode
+[2019.05.14-19.10.46:754][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/RockGameMode" FILE="../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/GameData/RockGameMode.uasset" SILENT=true
+[2019.05.14-19.10.46:793][735]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/RockGameMode98BB8A984494834007A7798F33EB6BBA.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/GameData/RockGameMode.uasset'
+[2019.05.14-19.11.31:548][ 73]BlueprintLog: New page: Compile RockGameMode
+[2019.05.14-19.11.32:173][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/RockGameMode" FILE="../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/GameData/RockGameMode.uasset" SILENT=true
+[2019.05.14-19.11.32:208][104]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/RockGameMode5FC2F64A4D402CC5E8FF2E8049A0D03E.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/GameData/RockGameMode.uasset'
+[2019.05.14-19.11.50:524][583]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.05.14-19.11.58:969][925]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.05.14-19.12.00:013][945]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/ThirdPersonCharacter39976E27439B1084E66618B179ED5EB5.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.05.14-19.12.05:136][353]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.14-19.12.05:162][353]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.14-19.12.05:198][353]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.14-19.12.05:198][353]LightingResults: New page: Lighting Build
+[2019.05.14-19.12.05:200][353]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.14-19.12.05:201][353]MapCheck: New page: Map Check
+[2019.05.14-19.12.05:201][353]LightingResults: New page: Lighting Build
+[2019.05.14-19.12.05:340][353]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.14-19.12.05:405][353]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.14-19.12.05:501][353]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.022ms to complete.
+[2019.05.14-19.12.05:501][353]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.305
+[2019.05.14-19.12.06:249][408]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.14-19.12.16:523][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.12.16:523][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-19.12.16:523][369]LogHMD: Initializing OVRPlugin session
+[2019.05.14-19.12.16:562][369]PIE: New page: PIE session: ThirdPersonExampleMap (14 May 2019 21:12:16)
+[2019.05.14-19.12.16:562][369]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.14-19.12.16:588][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025988s)
+[2019.05.14-19.12.16:589][369]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.14-19.12.16:589][369]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2019.05.14-19.12.16:589][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027133s)
+[2019.05.14-19.12.16:645][369]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-19.12.16:656][369]LogInit: FAudioDevice initialized.
+[2019.05.14-19.12.16:684][369]LogLoad: Game class is 'RockGameMode_C'
+[2019.05.14-19.12.16:686][369]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.14-20.12.16
+[2019.05.14-19.12.16:686][369]LogWorld: Bringing up level for play took: 0.001347
+[2019.05.14-19.12.16:698][369]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.14-19.12.16:700][369]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.342
+[2019.05.14-19.12.16:701][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.12.20:035][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.12.20:039][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-19.12.20:073][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-19.12.20:073][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.12.20:106][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-19.12.20:155][688]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.14-19.12.21:708][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-19.12.26:882][ 57]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.05.14-19.12.27:867][ 73]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/ThirdPersonCharacter0E4423AB4DE151E28E7AE9B0E72B938A.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.05.14-19.12.33:363][449]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.14-19.12.33:395][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.12.33:395][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-19.12.33:395][449]LogHMD: Initializing OVRPlugin session
+[2019.05.14-19.12.33:437][449]PIE: New page: PIE session: ThirdPersonExampleMap (14 May 2019 21:12:33)
+[2019.05.14-19.12.33:438][449]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.14-19.12.33:452][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013639s)
+[2019.05.14-19.12.33:453][449]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.14-19.12.33:453][449]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2019.05.14-19.12.33:453][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014734s)
+[2019.05.14-19.12.33:514][449]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-19.12.33:525][449]LogInit: FAudioDevice initialized.
+[2019.05.14-19.12.33:557][449]LogLoad: Game class is 'RockGameMode_C'
+[2019.05.14-19.12.33:558][449]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.14-20.12.33
+[2019.05.14-19.12.33:559][449]LogWorld: Bringing up level for play took: 0.001321
+[2019.05.14-19.12.33:572][449]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.14-19.12.33:575][449]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.533
+[2019.05.14-19.12.33:575][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.12.35:331][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.12.35:337][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-19.12.35:377][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-19.12.35:377][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.12.35:409][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-19.12.35:456][613]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.14-19.12.37:343][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-19.12.42:665][236]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/ThirdPersonExampleMapB5E2FA154E28841591B0FC97F5F77136.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.05.14-19.12.42:707][236]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.376
+[2019.05.14-19.13.09:712][470]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.05.14-19.13.12:239][573]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.05.14-19.13.12:245][573]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.05.14-19.13.46:901][191]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.05.14-19.13.47:701][197]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/ThirdPersonCharacter1AD986194C77D2631CE51E9151EE00FF.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.05.14-19.14.03:040][310]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Nameplate.Nameplate
+[2019.05.14-19.15.29:330][946]LogVSAccessor: Warning: Couldn't open file 'C:/Program Files/Epic Games/UE_4.20/Engine/Source/Runtime/UMG/Public/Blueprint/UserWidget.h'.
+[2019.05.14-19.15.29:330][946]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.05.14-19.15.29:338][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:338][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:338][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:338][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:338][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:338][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:338][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:338][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:338][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:338][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:339][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:340][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:341][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:341][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:341][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:341][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:341][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:341][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:341][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:341][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:341][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:341][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:342][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:343][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:343][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:343][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:343][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:343][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:343][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:343][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:343][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:343][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:343][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:344][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:344][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:344][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:344][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:344][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:344][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:344][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:344][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:345][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:346][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:346][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:346][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:346][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:346][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:347][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:347][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:347][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:347][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:347][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:347][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:347][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:348][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:348][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:348][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:348][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:348][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:348][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:349][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:349][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:349][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:349][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:349][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:354][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:355][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:355][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:355][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:356][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:356][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:356][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:358][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:359][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:381][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:381][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:418][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:741][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:750][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:750][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:752][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:752][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:752][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:753][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:753][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:753][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:753][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.15.29:754][946]LogVSAccessor: Warning: Couldn't access module table
+[2019.05.14-19.16.01:978][ 60]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/Nameplate3E3D28D64D280577DDF87E9B45A3FF89.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Blueprints/Nameplate.uasset'
+[2019.05.14-19.16.02:380][ 87]BlueprintLog: New page: Compile Nameplate
+[2019.05.14-19.18.07:318][128]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.05.14-19.18.08:367][145]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/ThirdPersonCharacter454ACFBD4B3485F7A34019B9CA1EA0E2.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.05.14-19.18.19:852][714]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/Nameplate87304A0D4E4B46670609BE95C44F1501.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Blueprints/Nameplate.uasset'
+[2019.05.14-19.18.20:247][735]BlueprintLog: New page: Compile Nameplate
+[2019.05.14-19.18.22:467][871]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.14-19.18.22:507][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.18.22:507][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-19.18.22:507][871]LogHMD: Initializing OVRPlugin session
+[2019.05.14-19.18.22:540][871]PIE: New page: PIE session: ThirdPersonExampleMap (14 May 2019 21:18:22)
+[2019.05.14-19.18.22:541][871]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.14-19.18.22:555][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014389s)
+[2019.05.14-19.18.22:557][871]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.14-19.18.22:557][871]LogPlayLevel: PIE: World Init took: (0.001812s)
+[2019.05.14-19.18.22:557][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016521s)
+[2019.05.14-19.18.22:623][871]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-19.18.22:634][871]LogInit: FAudioDevice initialized.
+[2019.05.14-19.18.22:664][871]LogLoad: Game class is 'RockGameMode_C'
+[2019.05.14-19.18.22:666][871]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.14-20.18.22
+[2019.05.14-19.18.22:666][871]LogWorld: Bringing up level for play took: 0.001385
+[2019.05.14-19.18.22:678][871]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.14-19.18.22:680][871]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.361
+[2019.05.14-19.18.22:681][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.18.25:559][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.18.25:566][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-19.18.25:603][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-19.18.25:603][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.18.25:639][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-19.18.25:684][137]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.14-19.18.27:360][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-19.18.56:415][630]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.05.14-19.18.57:204][636]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Saved/ThirdPersonCharacter92E8732B44CC87CCB2EEC0A80E119884.tmp' to '../../../../../../Users/James/Documents/GitHub/This-Is-My-Rock/ThisIsMyRock_Demo/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.05.14-19.18.58:932][751]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.14-19.18.58:966][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.18.58:966][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-19.18.58:966][751]LogHMD: Initializing OVRPlugin session
+[2019.05.14-19.18.59:001][751]PIE: New page: PIE session: ThirdPersonExampleMap (14 May 2019 21:18:59)
+[2019.05.14-19.18.59:001][751]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.05.14-19.18.59:018][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016655s)
+[2019.05.14-19.18.59:019][751]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.14-19.18.59:020][751]LogPlayLevel: PIE: World Init took: (0.001915s)
+[2019.05.14-19.18.59:020][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019041s)
+[2019.05.14-19.18.59:087][751]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-19.18.59:099][751]LogInit: FAudioDevice initialized.
+[2019.05.14-19.18.59:130][751]LogLoad: Game class is 'RockGameMode_C'
+[2019.05.14-19.18.59:131][751]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.05.14-20.18.59
+[2019.05.14-19.18.59:132][751]LogWorld: Bringing up level for play took: 0.001442
+[2019.05.14-19.18.59:144][751]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.14-19.18.59:150][751]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.108
+[2019.05.14-19.18.59:150][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.19.03:660][179]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Pick up
+[2019.05.14-19.19.06:518][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.19.06:523][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-19.19.06:561][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-19.19.06:562][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.05.14-19.19.06:597][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-19.19.06:649][454]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.14-19.19.07:969][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-19.19.11:962][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
